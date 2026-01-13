@@ -166,6 +166,16 @@ h2 {
   padding-left: 22px;
   margin-top: 8px;
 }
+.research-list {
+  list-style-type: disc;
+  padding-left: 22px;
+}
+
+.research-list li {
+  margin-bottom: 14px;
+  line-height: 1.55;
+}
+
 
 
 /* Footer */
